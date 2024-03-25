@@ -1,0 +1,49 @@
+
+    [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g_7YVzERozXI_mfnbSPkggiXqlljwtCQXw&usqp=CAU",
+        "sector": "Technology",
+        "time": "2 hours ago",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "views": 100,
+        "comments": 20,
+        "likes": 50,
+        "marketImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHGHD0Jt5f6o50BJiy-32-PNUXmRB6g081sO7JpefuA&s",
+        "storyName": "The coldest Sunset",
+        "storyDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g_7YVzERozXI_mfnbSPkggiXqlljwtCQXw&usqp=CAU",
+        "sector": "Finance",
+        "time": "1 hour ago",
+        "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "views": 80,
+        "comments": 15,
+        "likes": 35,
+        "marketImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHGHD0Jt5f6o50BJiy-32-PNUXmRB6g081sO7JpefuA&s",
+        "storyName": "The coldest Sunset",
+        "storyDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      },
+      {
+          "id": 3,
+          "name": "John Doe",
+          "profilePic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_g_7YVzERozXI_mfnbSPkggiXqlljwtCQXw&usqp=CAU",
+          "sector": "Technology",
+          "time": "2 hours ago",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+          "views": 100,
+          "comments": 20,
+          "likes": 50,
+          "marketImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHGHD0Jt5f6o50BJiy-32-PNUXmRB6g081sO7JpefuA&s",
+          "storyName": "The coldest Sunset",
+          "storyDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        }
+
+    ]
+
+
+  
